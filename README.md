@@ -1,5 +1,5 @@
 # Project1-Bank Application
-
+Design a file database for ACME Bank and write the entire Java program using OOP principles, file handling, exception handling, and unit testing. 
 ## List technologies used.<br/>
 
 * Object-Oriented Programming (OOP): like classes, objects, encapsulation, and inheritance.
