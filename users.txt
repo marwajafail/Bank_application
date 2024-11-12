@@ -1,0 +1,8 @@
+10001,user,banker,123,2000,B
+10002,saad,iqbal,juagw362,1000,B
+10003,omar,kamal,idh36%@#FGd,10000,B
+10004,melvin,gordon,uYWE732g4ga1,2000,C
+10005,stacey,abrams,DEU8_qw3y72$,2000,C
+10006,micheal,paul,d^dg23g)@,100000,C
+10007,dhrubo,chowdhury,&WQEgcg62d_2,2000,C
+
